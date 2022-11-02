@@ -1,29 +1,42 @@
 Project Name
-Project status(Active, On-Hold, Completed)
+Skark Attack Seasons
 
 Project objective
-Paragraph with introduction/ objective of project
+
+The main objective is to get information and insights about sharks attacks over the years. For ex:
+
+Seasons and Months with most occurrences;
+Places and hemisphere with most occurences;
+Plotting the data on a map.
+
 
 Methods
+
 List with methods, ex:
 
+Cleaning
 Filtering
 Grouping
 Visualization
-Technologies
-List with used technologies, ex:
+Plotting
+
+
+List with used technologies:
 
 Python
 Pandas
-MySQL
-Project Description
-Paragraph with a description of the dataset, sources, characteristics ,etc.
+Geopy
+Geopandas
 
-Steps
-Add here any insights you had durring the project
+
+Project Description
+The Dataset was downloaded from : 'https://www.kaggle.com/datasets/teajay/global-shark-attacks'
+
 
 Conclusion
-Final conclusion
+The summer is the season with most attacks occurences. With more than 2 times the occurrences of attacks in winter(season with the fewest attacks)
+The northern hemisphere has more occurences than the south  
 
-Contact
-linkedin, github, medium, etc
+
+
+
