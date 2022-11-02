@@ -34,8 +34,9 @@ The Dataset was downloaded from : 'https://www.kaggle.com/datasets/teajay/global
 
 
 Conclusion
-The summer is the season with most attacks occurences. With more than 2 times the occurrences of attacks in winter(season with the fewest attacks)
-The northern hemisphere has more occurences than the south  
+The summer is the season with most attacks occurences. With aprox. 3 times the occurrences of attacks in winter(season with the fewest attacks)
+The northern hemisphere has more occurences than the south.
+In Brazil, the area with most occurrences is the northeast, specifically Pernambuco State.
 
 
 
